@@ -1,0 +1,56 @@
+USUARIO
+-direccion
+-correo
+-rol
+
+PROFESOR
+-NOMBRE
+-APELLIDO
+-FECHA DE NACIMIENTOd
+-DUI
+-NIT
+-ID
+-Gradon encargado
+-Materia que imparte
+
+ALUMNO
+-IDE
+-NOMBRE
+-APELLIDO
+-Nivel
+-Materias
+
+GRADO
+-NOMBRE
+-ID
+-NIVEL
+-Salon
+
+MATERIA
+-NOMBRE
+-ID
+
+SALON
+-ID
+-Salon
+
+Clase
+-ID
+-Grado
+-Estudiantes
+-Profesor
+
+NOTA
+-Materia
+-Estudante
+-NOTA 1
+-NOTA 2
+-NOTA 3
+-Estado
+
+Boleta de notas
+-alumno
+-profesor
+-Notas
+
+
